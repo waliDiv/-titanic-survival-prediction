@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Titanic Survival Prediction | Data Science Project</title>
-    <style>
+  <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
             background-color: #0f172a;
