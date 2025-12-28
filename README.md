@@ -32,8 +32,6 @@
             font-size: 22px;
         }
     </style>
-</head>
-
 <body>
 
 <h1>🚢 Titanic Survival Prediction</h1>
