@@ -1,37 +1,4 @@
-  <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: #0f172a;
-            color: #e5e7eb;
-            padding: 30px;
-            line-height: 1.8;
-        }
-        h1, h2, h3 {
-            color: #38bdf8;
-        }
-        code {
-            background-color: #020617;
-            padding: 5px 8px;
-            border-radius: 6px;
-            color: #22c55e;
-        }
-        pre {
-            background-color: #020617;
-            padding: 15px;
-            border-radius: 10px;
-            overflow-x: auto;
-        }
-        .box {
-            background-color: #020617;
-            border-left: 5px solid #38bdf8;
-            padding: 15px;
-            margin-bottom: 20px;
-            border-radius: 8px;
-        }
-        .icon {
-            font-size: 22px;
-        }
-    </style>
+
 <body>
 
 <h1>🚢 Titanic Survival Prediction</h1>
